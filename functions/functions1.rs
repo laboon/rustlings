@@ -1,5 +1,9 @@
 // Make me compile! Scroll down for hints :)
 
+fn call_me() {
+    println!("called!");
+}
+
 fn main() {
     call_me();
 }
