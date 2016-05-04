@@ -1,7 +1,7 @@
 // Make me compile!
 
 fn something() -> String {
-    "hi!"
+    String::from("hi!")
 }
 
 fn main() {
